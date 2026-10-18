@@ -1,5 +1,10 @@
 # RomsLibrary — App Android
 
+> **Este repositorio se ha fusionado en [IvanFreireDacoba/RomsLibrary](https://github.com/IvanFreireDacoba/RomsLibrary)**
+> (carpeta `app/`, con todo su historial). Allí están el servicio, la app Android, el aplicativo
+> para Linux, Steam Deck y Windows, y la versión para Wii, y todas las descargas en
+> [Releases](https://github.com/IvanFreireDacoba/RomsLibrary/releases). Este repositorio queda archivado.
+
 App para consolas Android (Retroid, móviles…) que se conecta a una librería
 [RomsLibrary](https://github.com/IvanFreireDacoba/RomsLibrary-Servicio) e
 instala los juegos en la consola (lista para ES-DE), y sincroniza las partidas
